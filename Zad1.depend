@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489514116 source:c:\users\admin\desktop\studia\2 rok 2 semestr\asd2\zad1\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+
